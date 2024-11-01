@@ -1,0 +1,6 @@
+#toplevel_page_virtuaria_pagseguro .wp-submenu li:last-child {
+    display: none;
+}
+#adminmenu .wp-submenu a[href="admin.php?page=virtuaria_pagbank_split"] {
+    display: none;
+}
